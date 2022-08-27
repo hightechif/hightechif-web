@@ -139,7 +139,7 @@ const Header: React.FC<Props> = (props) => {
 
                         <div className="nav__right">
                             <p className='d-flex align-items-center gap-2 mb-0'> 
-                                {" "}<i className="ri-phone-line"></i> +62 812 2022 0697 {" "}
+                                {" "}<i className="ri-mail-line"></i> ridhanfadhilah@gmail.com {" "}
                             </p>
                         </div>
                     </div>
