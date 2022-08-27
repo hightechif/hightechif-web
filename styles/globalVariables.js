@@ -5,14 +5,15 @@ const globalVariables = {
 		clicked: '#246AB8',
 		black: '#333941',
 		black_2: '#474D54',
-		gray: '#6C757D',
+		gray: '#808DAD',
 		soft_gray: '#ADB5BD',
 		border: '#D4D4D4',
 		white: '#FFFEFE',
 		background: '#F9F9F9',
 		error: '#E63946',
 		success: '#52B788',
-		yellow: '#FFF73A'
+		yellow: '#FFF73A',
+		teal: '#01D293',
 	}
 };
 
