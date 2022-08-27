@@ -8,6 +8,7 @@ interface StyleProp {
 
 const StyledButton = styled.button`
     display: flex;
+    cursor: pointer;
     position: relative;
     justify-content: center;
     align-items: center;

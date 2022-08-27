@@ -13,13 +13,7 @@ const Home: NextPage = () => {
     <>
       <Meta />
 
-      <Header />
-      <Hero />
-      <Product />
-      <Engagement />
-      <CTA />
-      <Category />
-      <Footer />
+      <h1>Hello World</h1>
       
     </>
   )
